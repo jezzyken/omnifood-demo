@@ -189,6 +189,22 @@ a:active {
     border-bottom: 1px solid transparent;
 }
 
+/*------ Mobile NAV ------*/
+
+.mobile-nav-icon {
+    float: right;
+    margin-top: 20px;
+    cursor: pointer;
+    display: none;
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #fff;
+}
+
+
+
 
 /*------ Sticky NAV ------*/
 
